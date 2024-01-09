@@ -10,3 +10,4 @@ Console.WriteLine("Iphone");
 Smartphone iphone = new Iphone(numero: "(11) 99545-3112", modelo: "Iphone 15 Pro Max", imei: "39210912", memoria: 256);
 iphone.Ligar();
 iphone.InstalarAplicativo("Github");
+
